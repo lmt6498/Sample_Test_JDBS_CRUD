@@ -1,0 +1,18 @@
+models/Personal.java
+ models.Personal
+dao/Connect.java
+ dao.Connect
+models/Department.java
+ models.Department
+dao/SelectPesonal.java
+ dao.SelectPesonal
+dao/SelectDepartment.java
+ dao.SelectDepartment
+services/DepartmentService.java
+ services.DepartmentService
+services/PersonalService.java
+ services.PersonalService
+dao/PersonalCRUD.java
+ dao.PersonalCRUD
+controllers/PersonalServlet.java
+ controllers.PersonalServlet
